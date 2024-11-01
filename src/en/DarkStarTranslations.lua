@@ -1,4 +1,4 @@
--- {"id":4418039,"ver":"0.0.3","libVer":"1.0.0","author":"Raf","dep":["Madara>=2.9.1"]}
+-- {"id":4418039,"ver":"0.0.4","libVer":"1.0.0","author":"Raf","dep":["Madara>=2.9.1"]}
 
 local URL = "https://darkstartranslations.com"
 
@@ -12,7 +12,6 @@ return Require("Madara")(URL, {
 	latestNovelSel = "div.col-12.col-md-6.badge-pos-1",
 	novelListingURLPath = "manga",
 	shrinkURLNovel = "manga",
-	searchNovelSel = "input.manga-search-field",
 
 	genres = {
 		"Action",
