@@ -1,0 +1,23 @@
+{
+  "libraries": [
+    {
+      "name": "url",
+      "ver": "1.0.0"
+    },
+    {
+      "name": "Madara",
+      "ver": "2.9.1"
+    }
+  ],
+  "scripts": [
+    {
+      "id": 4418039,
+      "name": "DarkStar Translations",
+      "fileName": "DarkStarTranslations",
+      "imageURL": "",
+      "lang": "en",
+      "ver": "0.0.1",
+      "libVer": "1.0.0"
+    }
+  ]
+}
